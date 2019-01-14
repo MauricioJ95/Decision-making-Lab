@@ -1,0 +1,7 @@
+C:\git\Unit 1\DecisionMaking Lab\DecisionMaking Lab\bin\Debug\DecisionMaking Lab.exe.config
+C:\git\Unit 1\DecisionMaking Lab\DecisionMaking Lab\bin\Debug\DecisionMaking Lab.exe
+C:\git\Unit 1\DecisionMaking Lab\DecisionMaking Lab\bin\Debug\DecisionMaking Lab.pdb
+C:\git\Unit 1\DecisionMaking Lab\DecisionMaking Lab\obj\Debug\DecisionMaking Lab.csprojAssemblyReference.cache
+C:\git\Unit 1\DecisionMaking Lab\DecisionMaking Lab\obj\Debug\DecisionMaking Lab.csproj.CoreCompileInputs.cache
+C:\git\Unit 1\DecisionMaking Lab\DecisionMaking Lab\obj\Debug\DecisionMaking Lab.exe
+C:\git\Unit 1\DecisionMaking Lab\DecisionMaking Lab\obj\Debug\DecisionMaking Lab.pdb
